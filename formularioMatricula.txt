@@ -1,0 +1,8 @@
+*************************************************************
+				formulario matricula
+*************************************************************
+UNIVERSIDAD:
+FACULTAD:
+CARRERA:
+MATERIAS:
+NUMERO DE MATRICULAS:
