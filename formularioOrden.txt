@@ -1,7 +1,9 @@
 -------------------------------------------------------------------
 			Orden de Pago
 -------------------------------------------------------------------
+
 NOMBRE DEL ESTUDIANTE:PAUL VILLACIS
+SEMESTRES: CUARTO SOFTWARE
 FECHA:25/10/2023
 VALOR A PAGAR:120.00
-
+DISCAPACIDAD: NO
