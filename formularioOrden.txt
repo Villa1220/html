@@ -1,7 +1,7 @@
 -------------------------------------------------------------------
 			Orden de Pago
 -------------------------------------------------------------------
-NOMBRE DEL ESTUDIANTE:
-FECHA:
-VALOR A PAGAR:
+NOMBRE DEL ESTUDIANTE:PAUL VILLACIS
+FECHA:25/10/2023
+VALOR A PAGAR:120.00
 
