@@ -1,10 +1,10 @@
 --------------------------------------------------------------------
 				Formulario Alumnos
 --------------------------------------------------------------------
-CEDULA:
-NOMBRES:
-APELLIDOS:
-CORREO:
-DIRECCION:
-FECHA DE NACIMIENTO:
+CEDULA:1724727225
+NOMBRES:PAUL ANDRES
+APELLIDOS:VILLACIS LEON
+CORREO:ANDRESVILLACIS1220@GMAIL.COM
+DIRECCION:AMBATO-STA ROSA
+FECHA DE NACIMIENTO:12/02/2000
 
